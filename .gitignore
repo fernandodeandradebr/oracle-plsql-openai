@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.log
+*.p12
+*.sso
+*.jks
+wallet/
+secrets/
